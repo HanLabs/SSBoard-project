@@ -17,7 +17,6 @@ Ex) `feature/onboard`
 Ex) `Add: Login and Logout APIs and a 토큰 만료 로직`<br>
 `Update: OnBoard api`<br>
 `Refactor: about User model`<br>
-
 * [Commit Message Guidelines](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
 * [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.3/#summary)
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)

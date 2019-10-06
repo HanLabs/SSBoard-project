@@ -2,13 +2,15 @@
 
 승짱(feat. 새미)의 SSBoard project
 
-### Rules for Cooperation
+### Related Repos
 
 **SSBoard API Server**
 * https://github.com/HanLabs/SSBarod-api
 
 **SSBoard iOS**
 * Not yet
+
+### Rules for Cooperation
 
 **Branch 전략**
 * 대략 GitFlow 의 형태를 크게 벗어나지 않는 수준이라면 될 것 같습니다.<br>

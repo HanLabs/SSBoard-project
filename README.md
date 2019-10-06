@@ -5,10 +5,10 @@
 ### Rules for Cooperation
 
 **SSBoard API Server**
-https://github.com/HanLabs/SSBarod-api
+* https://github.com/HanLabs/SSBarod-api
 
 **SSBoard iOS**
-Not yet
+* Not yet
 
 **Branch 전략**
 * 대략 GitFlow 의 형태를 크게 벗어나지 않는 수준이라면 될 것 같습니다.<br>
@@ -30,4 +30,4 @@ Ex) `Add: Login and Logout APIs and a 토큰 만료 로직`<br>
 * [코드리뷰, GitHub로 바로 적용하기](https://academy.realm.io/kr/posts/codereview-howto/)
 
 ## About Project
-[API 명세 Wiki](https://github.com/HanLabs/SSBoard-project/wiki/API-명세)
+* [API 명세 Wiki](https://github.com/HanLabs/SSBoard-project/wiki/API-명세)

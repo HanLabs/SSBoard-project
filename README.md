@@ -1,8 +1,8 @@
-# SSBoard 프로젝트 관리 Repo
-
-### Rules for Cooperation
+# 프로젝트 SSBoard 
 
 승짱(feat. 새미)의 SSBoard project
+
+### Rules for Cooperation
 
 **SSBoard API Server**
 https://github.com/HanLabs/SSBarod-api

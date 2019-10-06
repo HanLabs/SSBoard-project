@@ -10,11 +10,11 @@ Not yet
 
 **Branch 전략**
 * 대략 GitFlow 의 형태를 크게 벗어나지 않는 수준이라면 될 것 같습니다.<br>
-`Ex) feature/onboard`
+Ex) `feature/onboard`
 
 **Git Convension**
 * 굳이 언어는 상관 없으며 아래 형식에서 크게 벗어나지 않는 선이면 됩니다.<br>
-`Add: Login and Logout APIs and a 토큰 만료 로직`<br>
+Ex) `Add: Login and Logout APIs and a 토큰 만료 로직`<br>
 `Update: OnBoard api`<br>
 `Refactor: about User model`<br>
 

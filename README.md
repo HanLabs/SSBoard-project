@@ -4,7 +4,7 @@
 
 <br>
 
-### Related Repos
+## Related Repos
 
 **SSBoard API Server**
 * https://github.com/HanLabs/SSBarod-api
@@ -14,7 +14,7 @@
 
 <br>
 
-### Rules for Cooperation
+## Rules for Cooperation
 
 **Branch 전략**
 * 대략 GitFlow 의 형태를 크게 벗어나지 않는 수준이라면 될 것 같습니다.<br>

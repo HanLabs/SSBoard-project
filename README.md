@@ -1,6 +1,6 @@
 # SSBoard-project
 
-승짱 & 새미 SSBoard project
+승짱(feat. 새미)의 SSBoard project
 
 **SSBoard API Server**
 https://github.com/HanLabs/SSBarod-api

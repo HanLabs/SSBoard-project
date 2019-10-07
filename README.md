@@ -38,4 +38,4 @@ Ex) `Add: Login and Logout APIs and a 토큰 만료 로직`<br>
 <br>
 
 ## About Project
-* [API 명세 Wiki](https://github.com/HanLabs/SSBoard-project/wiki/API-명세)
+* [API 목업 Wiki](https://github.com/HanLabs/SSBoard-project/wiki/API-목업)
